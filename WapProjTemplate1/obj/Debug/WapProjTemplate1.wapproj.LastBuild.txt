@@ -1,0 +1,13 @@
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\LockScreenLogo.scale-200.png
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Square150x150Logo.scale-200.png
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Square44x44Logo.scale-200.png
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\StoreLogo.png
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png
+C:\Program Files (x86)\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd
+D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\bin\AnyCPU\Debug\resources.pri
+D:\temp\dirWatchStoreTest\WpfApp1\packages\MyOddWeb.DirectoryWatcher.0.1.6-alpha2\lib\net452\MyOddWeb.DirectoryWatcher.dll
+D:\temp\dirWatchStoreTest\WpfApp1\packages\MyOddWeb.DirectoryWatcher.0.1.6-alpha2\lib\net452\MyOddWeb.DirectoryWatcher.Interfaces.dll
+D:\temp\dirWatchStoreTest\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\temp\dirWatchStoreTest\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\temp\dirWatchStoreTest\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb

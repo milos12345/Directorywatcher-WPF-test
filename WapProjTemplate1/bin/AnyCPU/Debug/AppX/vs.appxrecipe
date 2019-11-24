@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>MILOSG</Machine>
+    <WindowsUser>milos</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>08f9c393-2bea-4515-8c83-a61530f0b8cb</PackageIdentityName>
+    <PackageIdentityPublisher>CN=milos</PackageIdentityPublisher>
+    <IntermediateOutputPath>D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>4771E6C040BE4E663EA8EC51F5F859CC383C9EB1CCAFA7486ABBC400EEF0887A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>08f9c393-2bea-4515-8c83-a61530f0b8cb_1.0.0.0_neutral__c7c8dtbtjh5za</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>08f9c393-2bea-4515-8c83-a61530f0b8cb_c7c8dtbtjh5za!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>08f9c393-2bea-4515-8c83-a61530f0b8cb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=milos</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-11-24T00:28:41.811</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-03-17T22:59:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-03-17T22:59:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-03-17T22:59:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-03-17T22:59:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\StoreLogo.png">
+      <PackagePath>Images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-03-17T22:59:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-03-17T22:59:53.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T22:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WapProjTemplate1\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-11-24T00:28:41.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\packages\MyOddWeb.DirectoryWatcher.0.1.6-alpha2\lib\net452\MyOddWeb.DirectoryWatcher.dll">
+      <PackagePath>WpfApp1\MyOddWeb.DirectoryWatcher.dll</PackagePath>
+      <Modified>2019-11-21T23:20:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\packages\MyOddWeb.DirectoryWatcher.0.1.6-alpha2\lib\net452\MyOddWeb.DirectoryWatcher.Interfaces.dll">
+      <PackagePath>WpfApp1\MyOddWeb.DirectoryWatcher.Interfaces.dll</PackagePath>
+      <Modified>2019-11-21T23:17:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe">
+      <PackagePath>WpfApp1\WpfApp1.exe</PackagePath>
+      <Modified>2019-11-24T00:15:27.038</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\temp\dirWatchStoreTest\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config">
+      <PackagePath>WpfApp1\WpfApp1.exe.config</PackagePath>
+      <Modified>2019-11-24T00:06:15.388</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
